@@ -4,7 +4,7 @@ A news blog web application built using Node.js, Express, MongoDB, Mongoose, and
 
 ## Project Link
 
-The project is deployed on render at: <https://newsblog.herokuapp.com/>
+The project is deployed on render at: <[https://newsblog.herokuapp.com/](https://newsblog-0lp2.onrender.com)>
 
 ## Folder Structure
 
