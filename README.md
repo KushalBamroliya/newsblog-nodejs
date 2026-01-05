@@ -19,6 +19,3 @@ The folder structure of the project is as follows:
 * `utils`: Folder containing utility functions such as error handling.
 * `views`: Folder containing EJS templates for the application.
 * `package.json`: The package file for the project.
-
-
-
